@@ -1,11 +1,12 @@
 # My Project for Edunet Internship
 
 ## Overview
-This repository contains the project files for the Edunet Foundation Internship on AI and Cloud. The project is focused on predicting loan eligibility using machine learning techniques.
+This repository contains the project files for the Edunet Foundation Internship on AI and Cloud. The project focuses on predicting loan eligibility using machine learning techniques.
 
 ## Contents
 - **Vedant Roy Edunet Internship Project PPT.pdf:** A presentation detailing the project objectives, methodologies, and results.
 - **Edunet_Internship_Project_Python_Notebook_by_Vedant_Roy.ipynb:** A Jupyter Notebook containing the code and outputs for the project.
+- **loan_data_set.csv:** The dataset used for the loan eligibility prediction project.
 
 ## Project Details
 ### Project Title
@@ -19,6 +20,9 @@ The proposed system leverages data analytics and machine learning techniques to 
 
 ## Google Colab Link
 You can access the project notebook and its output in Google Colab using [this link](https://colab.research.google.com/drive/18VV0DSwpSBA2SrK7peF-Z9Sdt-PrOGDX?usp=sharing).
+
+## Dataset
+The dataset `loan_data_set.csv` contains the historical data used for training and testing the machine learning models. It includes information on applicants’ demographics, income, loan details, and credit history.
 
 ## Future Scope
 Future enhancements can include incorporating additional data sources, optimizing the algorithm for better performance, and expanding the system to cover multiple financial products.
