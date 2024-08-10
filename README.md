@@ -82,7 +82,7 @@ The development and functionality of the chatbot have been documented in a scree
 
 ### 1. `Vedant Roy Edunet Internship Project Report.pdf`
 
-This PDF document is the final project report submitted as part of the virtual internship. It includes detailed explanations of the projects, methodologies used, results obtained, and reflections on the learning experience.
+This PDF document is the final project report submitted as part of the virtual internship. It includes detailed explanations of the ML project, methodologies used, results obtained, and reflections on the learning experience.
 
 ### 2. `Edunet_Internship_Project_Python_Notebook_by_Vedant_Roy.ipynb`
 
