@@ -46,6 +46,12 @@ This project focuses on predicting loan approval status based on various attribu
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Jupyter Notebook or Python script to view the analysis and model training steps.
 
+Note- If setting up the python environment with the necessary dependencies is cumbersome then you can also view and execute the full code which is available on Google Colab at the following link:
+
+[Loan Dataset Analysis on Google Colab](https://colab.research.google.com/drive/18VV0DSwpSBA2SrK7peF-Z9Sdt-PrOGDX?usp=sharing)
+
+Make sure to upload the csv file of loan dataset which is shared in this repository, on google colab before executing the code present on colab notebook.
+
 ## 2. Chatbot Development using IBM Watsonx Assistant
 
 ### Project Description
